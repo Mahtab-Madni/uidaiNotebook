@@ -1,0 +1,3 @@
+# uidai
+Problem Statement: Unlocking Societal Trends in Aadhaar Enrolment and Updates
+Identify meaningful patterns, trends, anomalies, or predictive indicators and translate them into clear insights or solution frameworks that can support informed decision-making and system improvements.
